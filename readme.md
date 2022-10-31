@@ -11,3 +11,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+- Step 1. Install Docker
+- Step 2. Make sure docker is running by issuing these commands from a terminal
+- docker -v
+- docker-compose -v
+- The versions of those two programs should be shown.  Otherwise seek help from Ness
